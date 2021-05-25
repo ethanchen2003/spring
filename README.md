@@ -1,2 +1,2 @@
 # projects
- Ethan's java project repository
+ Ethan's spring project repository
